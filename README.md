@@ -1,4 +1,4 @@
-<h1>1995 Olympics Site Remake<br><img src="olympic_rings.png" width="120" height="50"/> </h1>
+<h1>1995 Olympics Site Remake<img src="olympic_rings.png" width="110" height="50"/> </h1>
 
 A recreation of the 1995 Olympics site for a class assignment. The idea was to create 'a webpage that looks like a 1995 webpage'. I've included a [link](https://web.archive.org/web/19961223053702/http://www.olympic.org/) to the original Olympics website from 1995 for a comparison of what I was up against. 
 
